@@ -1,0 +1,19 @@
+# Node.js modules
+/node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Build directories
+/dist
+/build
+/public
+
+# Optional: Ignore test coverage reports
+/coverage
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
